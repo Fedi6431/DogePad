@@ -6,9 +6,6 @@ It allows you to write and save texts,
 features Doge logos,
 and includes a ProgressBar for fun installation.
 
-## License
-DogePad is freeware protected by Copyright©. Enjoy it freely.
-
 ## System Requirements
 No specific requirements.
 
