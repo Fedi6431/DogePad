@@ -1,0 +1,20 @@
+##########################################################
+#                     This is DogePad!                   #
+#               DogePad is a freeware software           #
+#                 That i developed for fun               #
+#                      Just enjoy it                     #
+##########################################################
+#                  Author - Fedi6431                     #
+#                  Developer - Fedi6431                  #
+#         This software is protected by Copyright©       #
+##########################################################
+# This is DogePad, a freeware software that i developed  #
+# For fun. You can write thing and save it too, see the  #
+# Doge logos, the infos of the program, i add a Progress #
+# Bar for fun, when you click on the "install" button,   #
+# The ProgressBar will start, and the program create two #
+# Files into your desktop, one named Doge.txt and one    #
+# Named DogeAscii.txt. The Doge.txt contain a secret     #
+# Message and the DogeAscii.txt contain an ascii picture #
+# Of the doge.                                           #
+##########################################################
